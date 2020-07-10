@@ -1,9 +1,7 @@
 Hi there 👋
 I am Harsh Borwal, Student at SKNCOE Pune persuing BE in computer engineering 
+https://in.linkedin.com/in/harshborwal/
 
-**HarshB10/HarshB10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Development, Different Frameworks
 - 🌱 I’m currently learning ...ReactJs, React Native
